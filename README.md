@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel @miguedes and I'm a beginner in GitHub
-- 👀 I’m interested in learning basic features of how GitHub works so I can contribute to or start FOSS projects
-- 🌱 I’m currently learning how to contribute to FOSS projects
-- 💞️ I’m looking to collaborate on translations to Portuguese (PT-PT, European) or basic project management activities
+- 👀 I’m interested in learning how GitHub works so I can contribute to FOSS projects
+- 🌱 I’m currently learning how to contribute to FOSS projects via GitHub
+- 💞️ I’m looking to collaborate on simple project management or translations to/from Portuguese (PT-PT, European) with English EN, Spanish ES, French FR
 - ⏱ I'm willing to donate up to 2 hours per week
 - 📫 How to reach me: via GitHub
